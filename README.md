@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wolvohunt47
 - 👀 I’m interested in ...Data Science & Blockchain Devlopement
-- 🌱 I’m currently learning ...Programing Langauges
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...AI/ML
+- 💞️ I’m looking to collaborate on ... chatbot devlopement
 - 📫 How to reach me ...himanshumishra263@gmail.com
 
 <!---
